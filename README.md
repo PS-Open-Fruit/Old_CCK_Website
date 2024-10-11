@@ -1,0 +1,1 @@
+# These files have been converted by [PHP2Blade](https://github.com/smarteist/PHP2Blade)
